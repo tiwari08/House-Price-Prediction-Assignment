@@ -55,7 +55,7 @@ How can you make sure that a model is robust and generalisable? What are the imp
 Business Goal 
 
 - Build a regression model using regularisation in order to predict the actual value of the prospective properties and decide whether to invest in them or not.
-- Determine the optimal value of lambda for ridge and lasso regression.\n",
+- Determine the optimal value of lambda for ridge and lasso regression.
 - This model will then be used by the management to understand how exactly the prices vary with the variables.
 - They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
 - The model will be a good way for the management to understand the pricing dynamics of a new market."
@@ -83,6 +83,6 @@ Ridge and Lasso's Mean Squared Error is as follows:"
 - Ridge -  0.013827",
 - Lasso -  0.013637"
 
-- Ridge's Mean Squared Error is somewhat higher than Lasso's.\n",
+- Ridge's Mean Squared Error is somewhat higher than Lasso's.
 - Additionally, Lasso has an advantage over Ridge because it aids in feature reduction (as one of the feature's coefficient values became 0).
 - Consequently, according to Lasso, the zoning classification, living area square feet, overall quality and condition of the house, and location are the elements that generally determine the price. the house's type of foundation, Number of vehicles that can fit in the garage, total square footage of the basement, and finished basement square footage Lasso's factors are thus significant variables for predicting the price of a house in the preceding bar chart.

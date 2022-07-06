@@ -72,15 +72,15 @@ Business Goal
 
 ## Conclusion
 
-In the case of Ridge and Lasso, the ideal lambda value is as follows:"
+In the case of Ridge and Lasso, the ideal lambda value is as follows:
 
-- Ridge -  7",
-- Lasso -  0.0004 "
+- Ridge -  7
+- Lasso -  0.0004 
 
-Ridge and Lasso's Mean Squared Error is as follows:"
+Ridge and Lasso's Mean Squared Error is as follows:
 
-- Ridge -  0.013827",
-- Lasso -  0.013637"
+- Ridge -  0.013827
+- Lasso -  0.013637
 
 - Ridge's Mean Squared Error is somewhat higher than Lasso's.
 - Additionally, Lasso has an advantage over Ridge because it aids in feature reduction (as one of the feature's coefficient values became 0).

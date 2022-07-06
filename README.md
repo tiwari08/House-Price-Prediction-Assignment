@@ -68,7 +68,6 @@ Business Goal
 - matplotlib.pyplot
 - seaborn
 - scikit-learn
-- statsmodels
 - warnings
 
 ## Conclusion

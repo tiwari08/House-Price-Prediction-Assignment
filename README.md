@@ -58,8 +58,8 @@ Business Goal
 - Determine the optimal value of lambda for ridge and lasso regression.
 - This model will then be used by the management to understand how exactly the prices vary with the variables.
 - They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns.
-- The model will be a good way for the management to understand the pricing dynamics of a new market."
-   
+- The model will be a good way for the management to understand the pricing dynamics of a new market.
+- 
    
 ## Technology used:
 

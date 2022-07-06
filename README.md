@@ -1,6 +1,6 @@
 # House-Price-Prediction-Assignment
 # Project name
-House Price Prediction using Advance Regression
+House Price Prediction using Advanced Regression
 
 ## Table of Contents
 Introduction
